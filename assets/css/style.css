@@ -11505,7 +11505,7 @@ blockquote .blockquote-card_title:before {
   left: 0;
 }
 .footer__top {
-  padding: 120px 0;
+
   position: relative;
   z-index: 1;
   border-bottom: 1px solid var(--tg-color-gray-2);
