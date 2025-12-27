@@ -3720,6 +3720,7 @@ textarea.is-invalid {
   position: absolute;
   inset: 0;
   background: linear-gradient(270deg, rgba(34, 44, 49, 0) 0%, #222C31 100%);
+ 
 }
 .hero-slider1 .swiper-slide:before {
   content: "";
